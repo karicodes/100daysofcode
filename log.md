@@ -1,0 +1,143 @@
+# 100 Days Of Code - Log
+
+### Day 1: April 27, 2020
+
+**Today's Progress**: Today I made a Javascript todo app with local storage after also learning how to interact with the dom
+
+**Thoughts:** It was interesting to learn how to interact with the dom and the local storage. It was nice to refresh some JS.
+
+**Link to work:** [Todo App](https://nifty-tesla-5daeb4.netlify.app/)
+
+### Day 2: April 28, 2020
+
+**Today's Progress**: Today I made a Javascript matching game app
+
+**Thoughts:** Very interesting how I can do thing in vanilla JS differently to react. Feel like I need to go over this again to let it sink in.
+
+**Link to work:** [Memory App](https://hungry-ardinghelli-8bd778.netlify.app/)
+
+### Day 3: April 29, 2020
+
+**Today's Progress**: Today I finished my JS course and made a start on a Typescript course
+
+**Thoughts:** A type is a shortcut to refer to the different properties and functions that a value has. In Typescript, any value has a type. Types give the compiler information to analyze our code for errors.
+
+### Day 4: April 30, 2020
+
+**Today's Progress**: Today I learned about Type Inference and Type Annotations in Typescript.
+
+**Thoughts:** I feel that we should rely on Type Inference where we can and only use Type Annotation if necessary. Today was a slow day where I was taking in a lot of information and not doing a lot of coding. I look forward to putting what I learned into practice.
+
+### Day 5: May 1, 2020
+
+**Today's Progress**: Today I learned about TDD and wrote some tests in jest
+
+**Thoughts:** I had used TDD before with jest but never really understood what I was doing. Today in my course with Suraj, I made a lot more sense of what I was doing and how the tests work. I am excited for my learning at booking.
+
+### Day 6: May 2, 2020
+
+**Today's Progress**: Today I learned about typed arrays, tuples and interface in Typescript. I also learned about JS classes and about building functionality with classes in Typescript.
+
+**Thoughts:** I can't imagine what I would use tuples for as there doesn't seem to be a reason you would use them over objects - there's no way of knowing what each item is so what is the point in specifying which type goes where? Interface seems very important for making code reusable interfaces encourage us to write functions that can be reused. Classes are super useful but I'm a bit confused with how the course has explained building functionality with classes in Typescript, however the instructor has advised that this will become clearer later in the course. I might go back over these classes videos again tomorrow.
+
+### Day 7: May 3, 2020
+
+**Today's Progress**: Today I built a Google Maps app in Typescript using the Faker API to create a company and a user marker on the map with a pop up displaying their information.
+
+**Thoughts:** I really enjoyed working with the map and typescript is starting to make sense. This was also really good practice with classes and putting them to use. Tried to deploy to netlify so I could add a link but having trouble displaying it :(
+
+### Day 8: May 4, 2020
+
+**Today's Progress**: Today I learned about modules and browser compatibility and transpilation in JavaScript.
+
+**Thoughts:** Babel seemed a bit confusing. Import/Export is a lot more clear - although it took a long time to complete a simple exercise. This task ctually refreshed the forEach method and really made it make sense to me.
+
+### Day 9: May 5, 2020
+
+**Today's Progress**: Today I learned about Promises in JS.
+
+**Thoughts:** Promises we're a lot to get my head around but I feel like I did learn quite a bit tonight. I also learned why we don't invoke the function that is used as a parameter in the .then call, as this would defeat the purpose of the promise and call the function right away and would return undefind.
+
+### Day 10: May 6, 2020
+
+**Today's Progress**: Today I learned about Async-Await in JS.
+
+**Thoughts:** I am very happy that async-await exists as these make promises so much easier! Really enjoyed this lesson although I don't like codecademy's compiler telling me I have an error when my code is identical to the solution!!
+
+### Day 11: May 7, 2020
+
+**Today's Progress**: Today I learned about Requests in JS.
+
+**Thoughts:** Requests were interesting and brought back some familiar knowledge - again thise are much easier using async await!
+
+### Day 12: May 8, 2020
+
+**Today's Progress**: Today I did some JS katas on Codewars
+
+**Thoughts:** Practiced with forEach, some, [...Array(n).keys()], map and while loops! Today was challenging and fun.
+
+### Day 13: May 9, 2020
+
+**Today's Progress**: Today I learned some Typescript and began a new TS project.
+
+**Thoughts:** I began a TS project where I will build an algorithm for sorting, arrays, strings and linked lists. It seems inteeresting that I will learn more about TS while also using JS in different ways.
+
+### Day 14: May 10, 2020
+
+**Today's Progress**: Today I continued my TS project.
+
+**Thoughts:** A bit hungover today so feeling very proud of myself for getting my hour od code in. I am enjoying the implmentation of the TS I am learning and the different JS approach than I have ever used before.
+
+### Day 15: May 11, 2020
+
+**Today's Progress**: Today I finished my sorter TS project.
+
+**Thoughts:** I don't like linked lists. This was an interesting project but I don't feel like a lot of it has sunk in with me.
+
+### Day 16: May 12, 2020
+
+**Today's Progress**: Today I began a new Typescript project on Reuseable code.
+
+**Thoughts:** I got stuck debugging some bad set up for too long. Project is now set up and am looking forward to learning more on TS. I learned how to read a csv file and to iterate through it to make it into an array that I can use.
+
+### Day 17: May 13, 2020
+
+**Today's Progress**: Today I continued with my typescript project on stats.
+
+**Thoughts:** I learned a lot of interesting ts today. Enums are essentially objects that store closely related values. Tuples can be useful for creating a type for an array with a specific sequence inside. I did a lot more work with classes which is helpful and I can see how they work a lot more.
+
+### Day 18: May 14, 2020
+
+**Today's Progress**: Today I focused on learning about my team's upcoming project.
+
+**Thoughts:** I learned about an endpoint and how this can be interpreted and constructed into a JSON object. We are going to create a JSON object to contain the information needed in order to make the component reuseable across many different platforms. The JSON object will serve as a microservice. The data structure will include both data received from endpoint and the localised content.
+
+### Day 19: May 15, 2020
+
+**Today's Progress**: Today I attended by JS course.
+
+**Thoughts:** Today I revised some JS basics including undefined vs undeclared, execution context and assignment by reference vs assignment by value. We went over some basic methods and higher order functions as well.
+
+### Day 20: May 16, 2020
+
+**Today's Progress**: Today I continued my TS course.
+
+**Thoughts:** I learned more about abstract classes, variable types with generics and applying a type to a generic class. Generics cusotmise the defination of a class within angled brackets <> - this way we can pass a type up through a class from where the instance is being created. This allows us to define the type of a value at a future point.
+
+### Day 21: May 17, 2020
+
+**Today's Progress**: Today I continued my TS course.
+
+**Thoughts:** I learned more about inheritance vs composition. Inheritance refers to an 'is a' relationship (parent/child inheritance - abstract class/class extends) and composition refers to a 'has a' relationship (has a reference to some outside object). There is a lot of confusion in the JS community about what composition is.
+
+### Day 22: May 18, 2020
+
+**Today's Progress**: Today I set up a React App with Typescript.
+
+**Thoughts:** It was nice to refresh some React set up while learning how to set up a React app in TS. I spent quite a while watching set up tutorials and getting the app set up and rendering. I now have an app rendering one component!
+
+### Day 23: May 19, 2020
+
+**Today's Progress**: Today did some react-map-gl research/revision.
+
+**Thoughts:** I can't get my map to render on the page - will have to look into the map token tomorrow. Was refreshing going back to my old project feeling like I understand a lot of the concepts a bit more.
