@@ -141,3 +141,9 @@
 **Today's Progress**: Today did some react-map-gl research/revision.
 
 **Thoughts:** I can't get my map to render on the page - will have to look into the map token tomorrow. Was refreshing going back to my old project feeling like I understand a lot of the concepts a bit more.
+
+### Day 24: May 20, 2020
+
+**Today's Progress**: Today I attended a TS talk.
+
+**Thoughts:** The talk was a bit too advanced for me but I was able to understand and recognise some of the concepts they touched on.
