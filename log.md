@@ -147,3 +147,9 @@
 **Today's Progress**: Today I attended a TS talk.
 
 **Thoughts:** The talk was a bit too advanced for me but I was able to understand and recognise some of the concepts they touched on.
+
+### Day 25: May 21, 2020
+
+**Today's Progress**: Today I did some katas on codewars.
+
+**Thoughts:** I did some JS katas. I revisited forEach and map.
