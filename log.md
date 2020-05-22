@@ -153,3 +153,9 @@
 **Today's Progress**: Today I did some katas on codewars.
 
 **Thoughts:** I did some JS katas. I revisited forEach and map.
+
+### Day 26: May 22, 2020
+
+**Today's Progress**: Today I attened my JS training.
+
+**Thoughts:** We revised arrays and their methods and wrote functions with TDD.
