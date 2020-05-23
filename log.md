@@ -159,3 +159,9 @@
 **Today's Progress**: Today I attened my JS training.
 
 **Thoughts:** We revised arrays and their methods and wrote functions with TDD.
+
+### Day 27: May 23, 2020
+
+**Today's Progress**: Today I did some JS codewars katas.
+
+**Thoughts:** I revised the sort method. I need to remember it is a - b and b - a (not a + b and a - b).
