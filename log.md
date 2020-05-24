@@ -165,3 +165,9 @@
 **Today's Progress**: Today I did some JS codewars katas.
 
 **Thoughts:** I revised the sort method. I need to remember it is a - b and b - a (not a + b and a - b).
+
+### Day 28: May 24, 2020
+
+**Today's Progress**: Today I worked on my travel site.
+
+**Thoughts:** I revised styled components and tried out some color schemes.
