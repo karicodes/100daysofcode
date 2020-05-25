@@ -171,3 +171,9 @@
 **Today's Progress**: Today I worked on my travel site.
 
 **Thoughts:** I revised styled components and tried out some color schemes.
+
+### Day 29: May 25, 2020
+
+**Today's Progress**: Today I worked on my travel site again.
+
+**Thoughts:** I installed semantic ui and got a navbar rendering. Already having to start learning more about typescript as it was constant typescript errors!
