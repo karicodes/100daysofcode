@@ -177,3 +177,9 @@
 **Today's Progress**: Today I worked on my travel site again.
 
 **Thoughts:** I installed semantic ui and got a navbar rendering. Already having to start learning more about typescript as it was constant typescript errors!
+
+### Day 30: May 26, 2020
+
+**Today's Progress**: Today I worked on my travel site again.
+
+**Thoughts:** I spent my time today changing a class based component (navbar imported from semantic ui) into a functional based component. This meant getting to revisit the state hook and revise what I learned previously on this.
