@@ -183,3 +183,9 @@
 **Today's Progress**: Today I worked on my travel site again.
 
 **Thoughts:** I spent my time today changing a class based component (navbar imported from semantic ui) into a functional based component. This meant getting to revisit the state hook and revise what I learned previously on this.
+
+### Day 31: May 27, 2020
+
+**Today's Progress**: Today I worked on my travel site again.
+
+**Thoughts:** I worked some more with useState as I was going to set the view to be each page. I decided to use react-router-dom instead and learned abou this and began implementing it. I will fully implement this tomorrow.
