@@ -189,3 +189,21 @@
 **Today's Progress**: Today I worked on my travel site again.
 
 **Thoughts:** I worked some more with useState as I was going to set the view to be each page. I decided to use react-router-dom instead and learned abou this and began implementing it. I will fully implement this tomorrow.
+
+### Day 32: May 28, 2020
+
+**Today's Progress**: Today I attended my JS course
+
+**Thoughts:** Today we covered import/export, higher order funtions and currying.
+
+### Day 33: May 29, 2020
+
+**Today's Progress**: Today I didn't do any coding and had a BBQ
+
+**Thoughts:** My friends came over, we had a lot of food, some drinks and a really good time.
+
+### Day 34: May 30, 2020
+
+**Today's Progress**: Today I did a kata on codewars.
+
+**Thoughts:** I used the filter method to compare 2 arrays and return all items in the array that aren't in both arrays with !a.includes(item).
