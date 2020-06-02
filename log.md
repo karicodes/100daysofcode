@@ -214,7 +214,7 @@
 
 **Thoughts:** I worked with react-map-gl and got my map rendering on my site with a chosen style.
 
-### Day 34: June 2, 2020
+### Day 36: June 2, 2020
 
 **Today's Progress**: Today I worked on my travel site.
 
