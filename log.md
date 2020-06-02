@@ -190,20 +190,32 @@
 
 **Thoughts:** I worked some more with useState as I was going to set the view to be each page. I decided to use react-router-dom instead and learned abou this and began implementing it. I will fully implement this tomorrow.
 
-### Day 32: May 28, 2020
+### Day 32: May 29, 2020
 
 **Today's Progress**: Today I attended my JS course
 
 **Thoughts:** Today we covered import/export, higher order funtions and currying.
 
-### Day 33: May 29, 2020
+### Day 33: May 30, 2020
 
 **Today's Progress**: Today I didn't do any coding and had a BBQ
 
 **Thoughts:** My friends came over, we had a lot of food, some drinks and a really good time.
 
-### Day 34: May 30, 2020
+### Day 34: May 31, 2020
 
 **Today's Progress**: Today I did a kata on codewars.
 
 **Thoughts:** I used the filter method to compare 2 arrays and return all items in the array that aren't in both arrays with !a.includes(item).
+
+### Day 35: June 1, 2020
+
+**Today's Progress**: Today I worked on my travel site.
+
+**Thoughts:** I worked with react-map-gl and got my map rendering on my site with a chosen style.
+
+### Day 34: June 2, 2020
+
+**Today's Progress**: Today I worked on my travel site.
+
+**Thoughts:** I used the REST countries API to render a list of all the countries in the world on my destinations page. I also used a list component from Semantic UI.
