@@ -219,3 +219,19 @@
 **Today's Progress**: Today I worked on my travel site.
 
 **Thoughts:** I used the REST countries API to render a list of all the countries in the world on my destinations page. I also used a list component from Semantic UI.
+
+### Day 37: June 3, 2020
+
+**Today's Progress**: Today I did some JS katas on codewars.
+
+**Thoughts:** I multiplied the same index's from 2 arrays by each other by using a for loop which iterated for the length of one of the arrays. I can then use [i] to refer to either array. I was getting confused thinking that [i] would only refer to the array I added .length to. Here is my solution:
+
+````function isOrthogonal(arr1,arr2) {
+  var sum = 0;
+  for(var i=0; i < arr1.length; i++) {
+      sum += arr1[i]*arr2[i];
+  }
+
+  return sum === 0
+}```
+````
