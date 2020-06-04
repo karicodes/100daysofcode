@@ -226,12 +226,13 @@
 
 **Thoughts:** I multiplied the same index's from 2 arrays by each other by using a for loop which iterated for the length of one of the arrays. I can then use [i] to refer to either array. I was getting confused thinking that [i] would only refer to the array I added .length to. Here is my solution:
 
-````function isOrthogonal(arr1,arr2) {
+```
+function isOrthogonal(arr1,arr2) {
   var sum = 0;
   for(var i=0; i < arr1.length; i++) {
       sum += arr1[i]*arr2[i];
   }
 
   return sum === 0
-}```
-````
+}
+```
