@@ -242,3 +242,9 @@ function isOrthogonal(arr1,arr2) {
 **Today's Progress**: Today I worked on my travel site.
 
 **Thoughts:** I added an alphabet menu to the destinations page which shows only the destinations beginning with the chosen letter. I also added a no destinations found message for the letters with no destinations.
+
+### Day 39: June 5, 2020
+
+**Today's Progress**: Today I attended my JS course.
+
+**Thoughts:** I learned about asyncronous JS, promises and classes.
