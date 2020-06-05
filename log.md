@@ -236,3 +236,9 @@ function isOrthogonal(arr1,arr2) {
   return sum === 0
 }
 ```
+
+### Day 38: June 4, 2020
+
+**Today's Progress**: Today I worked on my travel site.
+
+**Thoughts:** I added an alphabet menu to the destinations page which shows only the destinations beginning with the chosen letter. I also added a no destinations found message for the letters with no destinations.
