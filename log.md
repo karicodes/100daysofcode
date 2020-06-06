@@ -248,3 +248,9 @@ function isOrthogonal(arr1,arr2) {
 **Today's Progress**: Today I attended my JS course.
 
 **Thoughts:** I learned about asyncronous JS, promises and classes.
+
+### Day 40: June 6, 2020
+
+**Today's Progress**: Today I worked on my travel site.
+
+**Thoughts:** I added a form to the itineraries page. I used react-select and react-datepicker along with semantic ui forms.
