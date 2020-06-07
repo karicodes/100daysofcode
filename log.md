@@ -254,3 +254,9 @@ function isOrthogonal(arr1,arr2) {
 **Today's Progress**: Today I worked on my travel site.
 
 **Thoughts:** I added a form to the itineraries page. I used react-select and react-datepicker along with semantic ui forms.
+
+### Day 41: June 7, 2020
+
+**Today's Progress**: Today I did some katas on codewars.
+
+**Thoughts:** I did katas on classes and got in some practice with how to use classes. I am still not 100% confident or comfortable with these so will have to get more practice in.
