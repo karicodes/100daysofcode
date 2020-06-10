@@ -260,3 +260,26 @@ function isOrthogonal(arr1,arr2) {
 **Today's Progress**: Today I did some katas on codewars.
 
 **Thoughts:** I did katas on classes and got in some practice with how to use classes. I am still not 100% confident or comfortable with these so will have to get more practice in.
+
+### Day 42: June 8, 2020
+
+**Today's Progress**: Today I did some katas on codewars.
+
+**Thoughts:** I worked with %, sort, reduce and Math.pow.
+
+### Day 43: June 9, 2020
+
+**Today's Progress**: Today I did some katas on codewars.
+
+**Thoughts:** I worked with .includes, I 'zipped' 2 arrays by looping through 2 arrays and using `if (i < a.length)` to push each item and I also changed seconds into hours and minutes with:
+
+```
+  const hours = Math.floor(seconds / 3600)
+  const minutes = Math.floor(seconds % 3600 / 60)
+```
+
+### Day 44: June 10, 2020
+
+**Today's Progress**: Today I rebuilt components from work.
+
+**Thoughts:** I deleted 2 components from pom components and rebuilt them to better understand what was going on. This was my first time building components in storybook. It was interesting to learn how storybook interacts the code. The .stories.tsx files act as an entry point for storybook so this is where we gather together what is needed to create the component but the component logic goes in the .tsx file.
